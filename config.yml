@@ -39,14 +39,14 @@ params:
   systems:
     - name: API
       description: The bots API services
-      category: Flexa Group
+      category: Core Services
     - name: Payments
       description: How we handle our payments
-      category: Flexa Group
+      category: Core Services
     - name: Core Functions
-      category: Flexa Group
+      category: Core Services
     - name: Website
-      category: Flexa Group
+      category: Core Services
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#3d96d9"
   enableLastMod: true
