@@ -63,9 +63,10 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: Flexa Group
+    - name: Core Services
       closed: true
       untitled: false
+      description: This shows all the core services we offer at Flexa Group
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
