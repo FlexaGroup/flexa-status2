@@ -65,7 +65,7 @@ params:
   categories:
     - name: Core Services
       closed: false
-      untitled: false
+      untitled: true
       description: This shows all the core services we offer at Flexa Group
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
