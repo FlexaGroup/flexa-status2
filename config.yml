@@ -1,4 +1,4 @@
-title: Flexa Group Status
+title: Flexa Group
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
@@ -70,4 +70,4 @@ params:
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
-  useLargeHeaderDesign: true
+  useLargeHeaderDesign: false
