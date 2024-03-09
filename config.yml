@@ -54,6 +54,11 @@ params:
   logo: /img/flexa_logo.png
   incidentPostsPerPage: 5
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: Our site
+      link: https://flexagroup.co.uk
+    - name: Documentation
+      link: https://docs.flexagroup.co.uk
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
