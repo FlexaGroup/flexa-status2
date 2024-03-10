@@ -2,7 +2,7 @@
 section: issue
 title: Tech Mode plans are unavailable at the moment.
 date: 2024-03-09T16:40:11.909Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: true
