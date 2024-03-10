@@ -5,7 +5,7 @@ date: 2024-03-09T16:40:11.909Z
 resolved: true
 draft: false
 informational: true
-pin: true
+pin: false
 resolvedWhen: 2024-03-09T16:40:11.926Z
 affected:
   - Payments
