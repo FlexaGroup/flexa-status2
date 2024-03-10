@@ -52,7 +52,7 @@ params:
   enableLastMod: true
   headerTextColor: black
   logo: /img/flexa_logo.png
-  incidentPostsPerPage: 5
+  incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   customTabs:
     - name: Our site
