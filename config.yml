@@ -1,5 +1,5 @@
 title: Flexa Group
-buildFuture: true
+buildFuture: false
 defaultContentLanguage: en
 languageCode: en
 baseURL: https://status.flexagroup.co.uk
@@ -49,7 +49,7 @@ params:
       category: Core Services
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#3d96d9"
-  enableLastMod: true
+  enableLastMod: false
   headerTextColor: black
   logo: /img/flexa_logo.png
   incidentPostsPerPage: 10
