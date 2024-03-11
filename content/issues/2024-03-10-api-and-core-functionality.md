@@ -2,7 +2,7 @@
 section: issue
 title: API and Core Functionality
 date: 2024-03-10T22:11:39.408Z
-resolved: true
+resolved: false
 draft: false
 informational: false
 pin: false
