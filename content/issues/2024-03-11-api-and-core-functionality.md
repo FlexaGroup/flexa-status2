@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-03-11T13:38:50.372Z
+resolvedWhen: 2024-03-11T13:42:44.438Z
 affected:
   - API
   - Core Functionality
