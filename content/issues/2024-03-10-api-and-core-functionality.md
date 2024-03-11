@@ -5,7 +5,7 @@ date: 2024-03-10T22:11:39.408Z
 resolved: true
 draft: false
 informational: false
-pin: true
+pin: false
 resolvedWhen: 2024-03-10T22:11:39.429Z
 affected:
   - API
